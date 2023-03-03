@@ -1,0 +1,15 @@
+G:\Учеба\C#\задание3\bin\Debug\net6.0\задание3.exe
+G:\Учеба\C#\задание3\bin\Debug\net6.0\задание3.deps.json
+G:\Учеба\C#\задание3\bin\Debug\net6.0\задание3.runtimeconfig.json
+G:\Учеба\C#\задание3\bin\Debug\net6.0\задание3.dll
+G:\Учеба\C#\задание3\bin\Debug\net6.0\задание3.pdb
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.csproj.AssemblyReference.cache
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.AssemblyInfoInputs.cache
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.AssemblyInfo.cs
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.csproj.CoreCompileInputs.cache
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.dll
+G:\Учеба\C#\задание3\obj\Debug\net6.0\refint\задание3.dll
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.pdb
+G:\Учеба\C#\задание3\obj\Debug\net6.0\задание3.genruntimeconfig.cache
+G:\Учеба\C#\задание3\obj\Debug\net6.0\ref\задание3.dll
